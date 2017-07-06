@@ -1,7 +1,10 @@
 @CHARSET "UTF-8";
 body{
-	background-image:url("https://unsplash.com/?photo=_3TDkAttcaM");
-  background-size: 100%;
+	//background-image:url("https://unsplash.com/?photo=_3TDkAttcaM");
+ 	//background-size: 100%;
+	background: url(https://unsplash.com/?photo=_3TDkAttcaM);
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 h1{
 	color: hotpink;
